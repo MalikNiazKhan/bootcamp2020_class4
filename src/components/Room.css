@@ -1,0 +1,14 @@
+.room {
+  height:100%;
+  text-align: center;
+}
+
+.lit{
+  background-color: #fff;
+  color: #000;
+}
+
+.dark{
+  background-color: #000;
+  color: #fff;
+}
